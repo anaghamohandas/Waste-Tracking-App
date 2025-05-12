@@ -37,4 +37,4 @@ npm install
 
 # Run the development server
 npm run dev
->>>>>>> 8c53edc (Sample Commit)
+
